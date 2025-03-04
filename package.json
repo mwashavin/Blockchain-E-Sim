@@ -21,7 +21,7 @@
     "*.{ts,tsx,js,jsx,json}": "eslint --cache --max-warnings 0"
   },
   "dependencies": {
-    "@ethersproject/providers": "^5.7.2",
+    "@ethersproject/providers": "^5.8.0",
     "@ethersproject/shims": "^5.7.0",
     "@expo/metro-config": "~0.18.1",
     "@expo/vector-icons": "^14.0.2",
